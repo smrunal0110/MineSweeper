@@ -1,0 +1,28 @@
+Script started on 2020-04-24 18:21:09-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="180" LINES="44"]
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 3 5 6 9
+Incorrect number of input, need 4 input (ex. ./a.out 3 5 10). exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 3 5 6 9[K[K[K
+Incorrect number of input, need 4 input (ex. ./a.out 3 5 10). exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 3 5 17
+invalid input for number of mines, exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 3 5 17[K[K0
+invalid input for number of mines, exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 3 5 0[K[K[K[K[K26 25 10
+ invalid input for row. exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 26 25 10[K[K[K[K[K[K[K5 26 10
+ invalid input for column exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 25 26 10[K[K[K[K[K25 21
+invalid input for number of mines, exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 25 25 21[K[K[K[K[K[K[K[K0 10 2
+ invalid input for row. exiting..
+invalid input for number of mines, exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 0 10 2[K[K[K[K[K[K10 0 2
+ invalid input for column exiting..
+invalid input for number of mines, exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# ./a.out 10 0 2[K[K[K[K[K[K0 0 0
+ invalid input for row. exiting..
+ invalid input for column exiting..
+invalid input for number of mines, exiting..
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# exit
+
+Script done on 2020-04-24 18:22:50-04:00 [COMMAND_EXIT_CODE="2"]

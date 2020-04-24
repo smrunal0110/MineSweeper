@@ -1,0 +1,64 @@
+Script started on 2020-04-24 15:32:01-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="180" LINES="44"]
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# rm -rf .gitgit push -u origin masterremote add origin https://github.com/smrunal0110/MineSweeper[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "ms"[K[8Pstatusadd Makefile[4PMakefileadd ms_main.cpp[5P.cpp[2Ph[4Pinit[K[K[K[K[K[K[K[Kls *.git[K[K[K[K[K[K[K[K./mswp_exe 2 2 2
+row = 2
+column = 2
+num_mines = 2
+
+The Board:
+==========
+    0  1 
+    -  - 
+0  | X| X|
+1  | 2| 2|
+
+Player Board
+============
+    0  1 
+    -  - 
+0  | *| *|
+1  | *| *|
+enter row number which must be less than 2: 0
+enter column number which must be less than 2: 0
+0 to open location, 1 to set flag: 1
+Player Board
+============
+    0  1 
+    -  - 
+0  | F| *|
+1  | *| *|
+enter row number which must be less than 2: 0
+enter column number which must be less than 2: 1
+0 to open location, 1 to set flag: 1
+Player Board
+============
+    0  1 
+    -  - 
+0  | F| F|
+1  | *| *|
+enter row number which must be less than 2: 1
+enter column number which must be less than 2: 0
+0 to open location, 1 to set flag: 0
+Player Board
+============
+    0  1 
+    -  - 
+0  | F| F|
+1  | 2| *|
+enter row number which must be less than 2: 1
+enter column number which must be less than 2: 1
+0 to open location, 1 to set flag: 0
+
+
+CONGRATS!! YOU WON THE GAME
+===========================
+
+Player Board
+============
+    0  1 
+    -  - 
+0  | F| F|
+1  | 2| 2|
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# 
+]0;root@kali: ~/cpeg676/projects/project1/final[01;31mroot@kali[00m:[01;34m~/cpeg676/projects/project1/final[00m# exit
+
+Script done on 2020-04-24 15:33:24-04:00 [COMMAND_EXIT_CODE="0"]
